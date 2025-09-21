@@ -1,4 +1,4 @@
 # myfirstrepository
 This is my first Git repository.
 <br>
-Author-Sneha Saini
+Author-Sneha Saini (aiml)
